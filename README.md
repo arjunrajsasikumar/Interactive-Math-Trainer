@@ -32,9 +32,13 @@ The program tracks users to practice various operations, tracks scores, streaks,
 * CSV
 
 **Program Execution Screenshots**
+
 <img width="468" height="155" alt="Image" src="https://github.com/user-attachments/assets/f59b873b-1dd4-49a9-bd54-f790e08f2354" />
+
 <img width="468" height="166" alt="Image" src="https://github.com/user-attachments/assets/a868bba9-6839-4f7e-a11c-2f799c1e5ac2" />
+
 <img width="468" height="189" alt="Image" src="https://github.com/user-attachments/assets/f2953a42-2952-4f8e-b133-e3ff4ab94567" />
 
 **CSV FILE Screenshot**
+
 <img width="468" height="111" alt="Image" src="https://github.com/user-attachments/assets/b9e9c77f-94f3-448c-a1cb-8e8a2d4f58ff" />
