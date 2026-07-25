@@ -27,11 +27,6 @@ The program tracks users to practice various operations, tracks scores, streaks,
 
 * Saves performance statistics into a CSV file for users to review their progress.
 
-
-**Software Requirements:**
-**Language:**
-Python
-
 **Libraries used:**
 * Random
 * CSV
