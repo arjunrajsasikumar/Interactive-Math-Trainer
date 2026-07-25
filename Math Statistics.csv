@@ -1,0 +1,14 @@
+No. of Single digit addition attempted,Correct,Wrong,No. of Double digit addition attempted,Correct,Wrong,No. of Triple digit addition attempted,Correct,Wrong
+0,0,0,1,1,0,0,0,0
+No. of Single digit subtraction attempted,Correct,Wrong,No. of Double digit subtraction attempted,Correct,Wrong,No. of Triple digit subtraction attempted,Correct,Wrong
+0,0,0,0,0,0,0,0,0
+No. of Single digit multiplication attempted,Correct,Wrong,No. of Double digit multiplication attempted,Correct,Wrong,No. of Triple digit multipication attempted,Correct,Wrong
+1,1,0,1,0,1,0,0,0
+No. of Single digit division attempted,Correct,Wrong,No. of Double digit division attempted,Correct,Wrong,No. of Triple digit division attempted,Correct,Wrong
+0,0,0,0,0,0,0,0,0
+No. of Single digit power attempted,Correct,Wrong
+0,0,0
+No. of Single digit square root attempted,Correct,Wrong,No. of Double digit square root attempted,Correct,Wrong,No. of Triple digit square root attempted,Correct,Wrong
+0,0,0,0,0,0,0,0,0
+Score,Best Streak
+2,1
